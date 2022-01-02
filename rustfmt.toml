@@ -1,0 +1,6 @@
+edition = "2021"
+max_width = 1000
+newline_style = "Unix"
+
+hard_tabs = false
+tab_spaces = 4

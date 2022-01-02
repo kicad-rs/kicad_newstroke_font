@@ -1,0 +1,13 @@
+# -*- eval: (cargo-minor-mode 1) -*-
+
+[package]
+name = "kicad_newstroke_font"
+version = "0.0.0+6.0.0"
+publish = false
+edition = "2021"
+
+license-file = "LICENSE.txt"
+description = "KiCAD v6 Newstroke Font (raw data)"
+
+repository = "https://github.com/kicad-rs/kicad_newstroke_font"
+
